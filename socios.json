@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "nombre":"Raul Ramirez",
+        "nroSocio":10001,
+        "cuotas":[],
+        "abono":""
+    },
+    {
+        "id":2,
+        "nombre":"Luis Luque",
+        "nroSocio":10002,
+        "cuotas":[],
+        "abono":""
+    },
+    {
+        "id":3,
+        "nombre":"Gaston Gonzalez",
+        "nroSocio":10003,
+        "cuotas":[],
+        "abono":""
+    },
+    {
+        "id":4,
+        "nombre":"Fernando Fernandez",
+        "nroSocio":10004,
+        "cuotas":[],
+        "abono":""
+    },
+    {
+        "id":5,
+        "nombre":"Martin Martinez",
+        "nroSocio":10005,
+        "cuotas":[],
+        "abono":""
+    }
+]
